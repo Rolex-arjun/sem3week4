@@ -1,0 +1,13 @@
+ai-image-generator/
+├── backend/
+│   ├── models/
+│   │   └── Image.js
+│   ├── routes/
+│   │   └── imageRoutes.js
+│   ├── server.js
+│   └── .env
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+└── package.json
